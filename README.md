@@ -5,7 +5,7 @@ Fork on GitHub6108
 
 <h3 align="left">Connect with me:
   
-<a href="https://t.me/@Dilshodovna_7881">
+<a href="https://t.me/@Dilshodovna_7881" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a> 
 </h3>
