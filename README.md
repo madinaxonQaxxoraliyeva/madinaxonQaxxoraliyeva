@@ -3,7 +3,6 @@ Fork on GitHub6108
 <h1 align="center">Hi 👋, I'm Madina</h1>
 <h3 align="center">I am Back-end devoloper</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madinaxonqaxxoraliyeva" alt="madinaxonqaxxoraliyeva" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
