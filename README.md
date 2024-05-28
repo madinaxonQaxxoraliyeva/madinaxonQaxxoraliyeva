@@ -3,6 +3,9 @@ Fork on GitHub6108
 <h1 align="center">Hi 👋, I'm Madina</h1>
 <h3 align="center">I am Back-end devoloper</h3>
 
+<a href="https://t.me/@Dilshodovna_7881">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
